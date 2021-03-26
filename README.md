@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- GitHub Stats Card      -->
+<a href="https://github.com/AyoubHolmes">
+  <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=AyoubHolmes&line_height=40&show_icons=true&theme=dark" />
+</a>
+
+<!-- Top Languages Card      -->
+<a href="">
+  <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubHolmes&theme=dark" />
+</a>
